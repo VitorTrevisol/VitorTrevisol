@@ -14,9 +14,8 @@
 * Desde que entrei na Universidade tenho o hábito de estudar com cursos online, principalmente na Udemy e no YouTube
 
 ## Atualmente estou desenvolvendo meus conhecimentos em Engenharia de Dados
-Com o estágio na Compass UOL tenho essa oportunidade de me aprofundar na área dos dados
 
-Atualmente estou me desenvolvendo em:
+Estudando:
 * **Linux**
 
 <picture>
