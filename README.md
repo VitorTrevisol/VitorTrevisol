@@ -1,9 +1,24 @@
+# Olá, meu nome é Vitor Trevisol Francisco
+* Tenho 21 anos
+* Sou estudante do terceiro ano de **Sistemas de Informação** na FURG
+* Atualmente sou resido na Casa do Estudante dentro da FURG
+* Possuo mais familiaridade com:
+    * Git
+    * **Python**(pandas, matplotlib, seaborn, numpy), também tenho conhecimento em algumas bibliotecas que uso nas matérias da faculdade, como **Redes** e **Sistemas Operacionais**
+    * Bibliotecas de **Machine Learning** e **Deep Learning** (Scikit-Learn, Keras, TensorFlow)
+    * **Jupyter notebooks**
+    * **Flask**, principalmente para o desenvolvimento de APIs 
+    * **Sistemas de recomendação**
+* Também ja trabalhei um pouco com a **API** do **google maps (Text Search)**
+* Alguns desses conhecimentos aprimorei na minha Bolsa de **Ciência de dados** de no ITEC/FURG, onde desenvolvo principalmente **sistemas de recomendação** e também **indicadores e métricas de Redes Sociais**
+* Desde que entrei na Universidade tenho o hábito de estudar com cursos online, principalmente na Udemy e no YouTube
 
-### Olá, sou o Vitor 👋
+## Atualmente estou desenvolvendo meus conhecimentos em Engenharia de Dados
+Com o estágio na Compass UOL tenho essa oportunidade de me aprofundar na área dos dados
 
-- 🔭 Estou ansioso para aprender e crescer como desenvolvedor, contribuindo para projetos empolgantes no futuro.
-- 💬 Sou um entusiasta do desenvolvimento web, com conhecimentos em Node.js e React.
-- 🌱 Atualmente, estou focado em aprimorar minhas habilidades com o framework Django
+Atualmente estou me desenvolvendo em:
+* **Linux**
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=VitorTrevisol&show_icons=true&theme=midnight-purple"
