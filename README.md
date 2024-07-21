@@ -9,6 +9,8 @@
     * **Jupyter notebooks**
     * **Flask**, principalmente para o desenvolvimento de APIs 
     * **Sistemas de recomendação**
+    * SQL
+    * Linux
 * Também ja trabalhei um pouco com a **API** do **google maps (Text Search)**
 * Alguns desses conhecimentos aprimorei na minha Bolsa de **Ciência de dados** de no ITEC/FURG, onde desenvolvo principalmente **sistemas de recomendação** e também **indicadores e métricas de Redes Sociais**
 * Desde que entrei na Universidade tenho o hábito de estudar com cursos online, principalmente na Udemy e no YouTube
@@ -16,13 +18,30 @@
 ## Atualmente estou desenvolvendo meus conhecimentos em Engenharia de Dados
 
 Estudando:
-* **Linux**
+* **AWS**
+* **Docker**
+* **Spark**
+* **AirFLow**
+* **Snowflake**
 
   
 #
 
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+   
 <br/>
    
 # 
