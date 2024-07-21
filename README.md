@@ -17,12 +17,10 @@
 
 Estudando:
 * **Linux**
+
+  
 #
-<div style="display: flex; justify-content: center;align-items: center;">
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorTrevisol&layout=compact&theme=midnight-purple)
-</div>
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <br/>
