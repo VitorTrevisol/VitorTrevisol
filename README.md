@@ -9,29 +9,19 @@
 
   <br/><br/>
 
-  <!-- Redes Sociais e Contador -->
+  <!-- Redes Sociais -->
   <a href="https://linkedin.com/in/vitortrevisol/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:franciscovitoor2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/VitorTrevisol">
-    <img src="https://komarev.com/ghpvc/?username=VitorTrevisol&label=PROFILE%20VIEWS&color=0891b2&style=for-the-badge" alt="Profile Views" />
-  </a>
 
-</div>
+  <br/><br/>
 
----
+  <!-- Contador de Visitas Oficial -->
+  <img src="https://komarev.com/ghpvc/?username=VitorTrevisol&color=0891b2" alt="Visitas no perfil" />
 
-### 🐍 Atividade no GitHub (Snake Game)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VitorTrevisol/VitorTrevisol/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VitorTrevisol/VitorTrevisol/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Eating Commits" src="https://raw.githubusercontent.com/VitorTrevisol/VitorTrevisol/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
 </div>
 
 ---
@@ -91,8 +81,16 @@ Engenheiro e Analista de Dados com experiência no desenvolvimento de soluções
   </tr>
 </table>
 
-<br/>
+---
 
+<!-- Snake Game animado no rodapé, sem legenda de título -->
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VitorTrevisol/VitorTrevisol/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VitorTrevisol/VitorTrevisol/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Eating Commits" src="https://raw.githubusercontent.com/VitorTrevisol/VitorTrevisol/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+
+  <br/><br/>
   <sub>Construído com café, código limpo e dados ☕🚀</sub>
 </div>
