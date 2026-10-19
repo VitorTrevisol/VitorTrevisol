@@ -32,7 +32,7 @@ Engenheiro e Analista de Dados com experiência no desenvolvimento de soluções
 
 - 🔭 Atuação em **Engenharia de Dados**, arquitetura multinuvem (**GCP & AWS**) e orquestração de pipelines com **Airflow & dbt**.
 - ⚙️ Desenvolvimento de **APIs em Python** (FastAPI e Flask) e integração de fluxos de dados de diferentes fontes e serviços.
-- 🤖 Construção de automações e integração com **Agentes de Inteligência Artificial** e **MCP**.
+- 🤖 Construindo de automações e integrações.
 - 💬 Conecte-se comigo pelo [LinkedIn](https://linkedin.com/in/vitortrevisol/) ou por [e-mail](mailto:franciscovitoor2@gmail.com).
 
 ---
