@@ -28,12 +28,12 @@
 
 ### 👨‍💻 Sobre Mim
 
-Engenheiro e Analista de Dados com experiência no desenvolvimento de soluções de ponta a ponta — desde a ingestão e estruturação em nuvem até a criação de pipelines analíticos, APIs, modelos preditivos e dashboards executivos.
+Engenheiro e Analista de Dados com experiência no desenvolvimento de soluções de ponta a ponta — da ingestão e modelagem em nuvem à entrega de pipelines analíticos, APIs e dashboards executivos.
 
-- 🔭 Focado em **Engenharia de Dados**, arquitetura multinuvem (**GCP & AWS**), orquestração com **Airflow & dbt** e desenvolvimento de **APIs resilientes**.
-- 🤖 Entusiasta de **Agentes de Inteligência Artificial**, LLMs e automação moderna com **MCP**.
-- 💡 Apaixonado por transformar dados complexos em produtos de dados limpos, performáticos e estratégicos.
-- 💬 Vamos conversar? Conecte-se comigo pelo [LinkedIn](https://linkedin.com/in/vitortrevisol/) ou me envie um e-mail.
+- 🔭 Atuação em **Engenharia de Dados**, arquitetura multinuvem (**GCP & AWS**) e orquestração de pipelines com **Airflow & dbt**.
+- ⚙️ Desenvolvimento de **APIs em Python** (FastAPI e Flask) e integração de fluxos de dados de diferentes fontes e serviços.
+- 🤖 Construção de automações e integração com **Agentes de Inteligência Artificial** e **MCP**.
+- 💬 Conecte-se comigo pelo [LinkedIn](https://linkedin.com/in/vitortrevisol/) ou por [e-mail](mailto:franciscovitoor2@gmail.com).
 
 ---
 
